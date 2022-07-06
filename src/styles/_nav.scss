@@ -1,0 +1,11 @@
+.navigation_menu{
+ul{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-between ;
+    margin-left :70%;
+    margin-right:5%;
+    li{
+    list-style-type:none;}
+}
+}
