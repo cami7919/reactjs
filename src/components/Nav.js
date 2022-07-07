@@ -5,9 +5,9 @@ const Nav = () => {
         <>
         <div className="navigation_menu">
             <ul>
-                <li><a href="#"></a>Inscription</li>
-                <li><a href="#">Connexion</a></li>
-                <li><a href="#">Déconnexion</a></li>
+                <li><a href="http://google.com" >Inscription</a></li>
+                <li><a href="http://google.com" >Connexion</a></li>
+                <li><a href="http://google.com" >Déconnexion</a></li>
             </ul>
             
             

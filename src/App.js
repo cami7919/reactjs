@@ -1,20 +1,18 @@
-import Header from "./components/Header";
-import Nav from "./components/Nav";
+import React from 'react';
+
+import Routes from "./components/Routes";
+
+
 
 
 
 function App() {
-  return (
-    <>
+  return (    
     <div className="App">
-      
-      <Header/>
-      <Nav/>
+      <Routes/>        
+     
 
-
-    </div>
-    </>
-  );
+    </div>)   
 }
 
 export default App;
